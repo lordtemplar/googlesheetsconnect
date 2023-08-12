@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # Authenticate with Google Sheets API
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-credentials = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-rtlsdrdata-a0aa9af92dd7.json', scope)
 client = gspread.authorize(credentials)
 
 # Open the Google Sheet by title
