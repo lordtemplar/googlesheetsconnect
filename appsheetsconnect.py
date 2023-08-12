@@ -8,7 +8,7 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-rtlsd
 client = gspread.authorize(credentials)
 
 # Open the Google Sheet by title
-sheet = client.open('Your Google Sheet Title').sheet1
+sheet = client.open('appsheetsconnect').sheet1
 
 # Streamlit UI
 st.title('Google Sheets Streamlit App')
