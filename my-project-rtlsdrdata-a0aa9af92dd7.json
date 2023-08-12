@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-rtlsdrdata",
+  "private_key_id": "a0aa9af92dd76f42d62f07559a7df8b81d9d8e42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChoPcyvjObN220\ncpGxsRByQKOMmHsNZsX8MIUGhPm/M74+zt/LKnHCnfweKV6H2qTN2DVUr54sjp/d\n3+3w8vF0qNbaxR8oFuNjkks5gGFnASMlvKSE/cKPRZvp8rD5V/iHBaIik+RKXgny\nOZrTp7kwpfdOy/jCPU5q+RRKvAK1pr+E+jT7h6VgqbYikoCTYkNI7saOTmkbWzND\nKa/TPtNC7fqS/U3LhJPs+8RxHiMT4p8uCtu7wymyXenPnylLQ0Cps2cpnOJTVdLL\n2szaG3HKGLxKaPlFIFTwKBzuAniBiPFusxMB+653acnT3dskGsIWHIahMqsrPhPX\nmSED9OadAgMBAAECggEAC97A4Ni6p1wsAfwFtVrXZh4B/5Ca6D+ja94asEFM/+I6\nhy2AHpE0rxzAAsK6MaMuBicU4u4N4WBXydPztdslvqdVYNY9b580s8qZ8d8QPYrG\nFx6np35lJEqyBL22im1lRXH1YnGMQHuaYpAhTd42xHr1MskvRlakdHNBWVa9ooj+\nkmmUCpI2gf3pD/g3O1bfiwgCzKtPcRSR1kfASYD49ceVwxJ0daZY9qTv6KssDD+Q\nm8fd1D9ULiIs2aviQAeYtp797rlqd7hddOjffU0YPK/xQpNblsHPCnDbjRVQO6qz\nXh3YENs4LPE111YI5DYaOlaZ6ytgDjl87szecCgFaQKBgQDgpqLj+0XmYETLAXmy\nKdAdX7Oplw9n8njrCgAtUU5gUTjnq+OZ5D9vDVWQr0goJNfQDf9vwMmO9lRT+yWY\nFoiWJ6SP6ViY+fjtjUQDIf1/7jFXBb48h8bJkIAbjTyazqX0IfAI1Z/zbumar7hx\nsfd7ZOUvNTg/TTMRWUbu8GkOWQKBgQC4LvHJZxL53aBtzmDuqw7Sy8iqTMNBg7qh\nUl+IQ9P6OEOCknvh4RDxSAceDhzOhXLPDbj5WDONdQjEIlkQfqflNkRWK0vi/V1h\n685Tj5U9YoAzHXX6nR+CSrExsIJskFJ71NVBg5OUw7Lje5Og1BR+NfPPRHGRrK6Q\nftY/52t55QKBgHXSb7QqYSrGas4d4/mxPFlrjAryEz5tSUXcZONftT+G2dWHrUNV\nFn/j+nB7vdhwGlAgR0wRTKUSRIAXRExT5Sb7e6+OrszsrcXJRVZvSUkDYBVICdIt\nU/D7PHU2ygZXQ2qbMg0wHUfLb/GVH6Nht26cKCduPiXVE2eR70X6CN9hAoGAYbsP\nMzZNXGZcVUe4KYx87h+R18Opq97RLf6+kFilZ1VphSRjNcUuL0lv9WO5p2AqPnHi\nn/RMTpg2UZSEO/to7XgxJKQOvWCBp47vSWmb4BmfOwA79QJgkMs/YMVvP1oJWonh\nqsS9j6eUCZ8uA53lTd8lAusndAv0CNo0p24Nmn0CgYB0J69zXkmDfzHI1dOTX2Tk\nv17o1jUSQ0eFn10R1P72pk5s+EHU12QXuDqJJyEgQlT6OkaCUvP0A+pKjWkR6Vdt\noeSGtey26b5Zn223TA3HkAZUDrF75j0iVa+I7wRzgW6zD8j4rwYoeYyxv8G8BH49\nH/LSXuZG8NO8P+EM3Nir8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rtlsdrsignalcenter@my-project-rtlsdrdata.iam.gserviceaccount.com",
+  "client_id": "117936598839297488609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rtlsdrsignalcenter%40my-project-rtlsdrdata.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
